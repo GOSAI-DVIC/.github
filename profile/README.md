@@ -16,7 +16,14 @@ A platform running using GOSAI is the combinaison of :
 ## Tutorials 🧪
 
 - [Get started with GOSAI: program augmented reality experiences!](https://dvic.devinci.fr/tutorial/how-to-program-on-GOSAI)
+
+**Back-end**
+
 - [How to implement Computer Vision Modules with GOSAI](https://dvic.devinci.fr/augment-interface-in-AR)
+- [How to automatically calibrate a camera-projector system?](https://dvic.devinci.fr/tutorial/how-to-automatically-calibrate-a-camera-projector-system)
+
+**Front-end**
+
 - [Discover P5JS](https://dvic.devinci.fr/tutorial/p5js) ([official documentation](https://p5js.org/) is also nice documented)
 - [How to implement P5JS sketch on GOSAI](https://dvic.devinci.fr/tutorial/gosai-implement-p5js-sketch)
 - [How to set up state machine applications on GOSAI](https://dvic.devinci.fr/tutorial/gosai-state-machine-app)
